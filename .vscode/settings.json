@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/data/90kDICT32px": true
+    },
+    "search.exclude": {
+        "**/data/90kDICT32px": true
+    },
+    "files.watcherExclude": {
+        "**/data/90kDICT32px": true
+    }
+}
